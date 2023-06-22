@@ -17,7 +17,7 @@ int main()
 
     // Assign a value to the variable
     myAge = 28;
-    printf("Today is my birthday I'm 17");
+    printf("Today is my birthday I'm: %d", myAge ,"\n");
 
     /*
         In many other programming languages (like Python, Java, and C++),
@@ -25,12 +25,11 @@ int main()
         However, this is not possible in C:
 
         int myNum = 15;
-        printf(myNum);  // Nothing happens
-    */
+        printf(myNum); Nothing happens
 
+    */
     int myNum = 17;
-    printf("%d", myNum);  // Outputs 15
-    printf("My favorite number is: %d", myNum);
+    printf("\nMy fav num is: %d", myNum);
 
 
     return 0;
