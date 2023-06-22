@@ -11,7 +11,7 @@ int main()
     printf("Hello world!\n");
 
 
-    // VAR�ABLES
+    // VARÝABLES
 
     // Declare a variable
 
@@ -52,6 +52,13 @@ int main()
     int a = 5, b = 6, c = 50;
     printf("\n%d", a * b + c);
 
+
+    // WORKİNG WİTH USERINPUT
+
+    int age;
+    printf("\nEnter your age: ");
+    scanf("%d", &age);
+    printf("You are %d years old", age);
 
 
 
