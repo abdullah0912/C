@@ -10,6 +10,7 @@ int main()
     // And his is single-line
     printf("Hello world!\n");
 
+
     // VARÝABLES
 
     // Declare a variable
@@ -17,7 +18,7 @@ int main()
 
     // Assign a value to the variable
     myAge = 28;
-    printf("Today is my birthday I'm: %d", myAge);
+    printf("Today is my birthday I'm %d", myAge);
 
     /*
         In many other programming languages (like Python, Java, and C++),
@@ -29,10 +30,29 @@ int main()
 
     */
     int myNum = 17;
-    printf("\nMy fav num is: %d\n", myNum);
+    printf("\nMy fav num is %d\n", myNum);
 
     int Num = 15;
     char myLetter = 'A';
     printf("My new number is %d and my letter is %c", Num, myLetter);
+
+
+    // ADD VARIABLES TOGETHER
+
+    int x = 5;
+    int y = 6;
+    int sum = x + y;
+    printf("\nThe collection is %d", sum);
+
+
+    // DECLARE MULTIPLE VARIABLES
+
+    int a = 5, b = 6, c = 50;
+    printf("\n%d", a * b + c);
+
+
+
+
+
     return 0;
 }
