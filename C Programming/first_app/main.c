@@ -14,11 +14,13 @@ int main()
     // VARÝABLES
 
     // Declare a variable
+
     int myAge;
 
     // Assign a value to the variable
     myAge = 28;
     printf("Today is my birthday I'm %d", myAge);
+    printf("\nHello from ISS");
 
     /*
         In many other programming languages (like Python, Java, and C++),
