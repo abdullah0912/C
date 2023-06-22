@@ -1,9 +1,13 @@
 # depslib dependency file v1.0
-1687433307 source:c:\users\samet demirel\documents\github\c\c programming\first_app\main.c
+1687433556 source:c:\users\samet demirel\documents\github\c\c programming\first_app\main.c
 	<stdio.h>
 	<stdlib.h>
 
 1687432307 source:c:\users\samet demirel\documents\github\c\c programming\first_app\demo.c
+	<stdio.h>
+	<stdlib.h>
+
+1687433748 source:c:\users\samet demirel\documents\github\c\c programming\first_app\example1.c
 	<stdio.h>
 	<stdlib.h>
 
