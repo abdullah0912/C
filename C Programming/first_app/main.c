@@ -32,7 +32,7 @@ int main()
     printf("\nMy fav num is: %d\n", myNum);
 
     int Num = 15;
-    char myLetter = 'D';
+    char myLetter = 'A';
     printf("My new number is %d and my letter is %c", Num, myLetter);
     return 0;
 }
