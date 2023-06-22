@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(){
+int main()
+{
     /*
         This is a multi-line comment
     */
@@ -29,34 +30,5 @@ int main(){
     int myNum = 15;
     printf("%d", myNum);  // Outputs 15
 
-
-    /*
-        To print other types, use %c for char and %f for float:
-    */
-
-
-    // Create variables
-    int Age = 17;            // Integer (whole number)
-    float myFloatNum = 5.99;   // Floating point number
-    char myLetter = 'D';       // Character
-
-    // Print variables
-    printf("%d\n", Age);
-    printf("%f\n", myFloatNum);
-    printf("%c\n", myLetter);
-
-
-
-
-
-
-
-
-
-
-
-
-
     return 0;
 }
-
