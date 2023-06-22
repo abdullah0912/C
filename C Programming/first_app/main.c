@@ -37,7 +37,7 @@ int main()
 
 
     // Create variables
-    int myNum = 15;            // Integer (whole number)
+    int Age = 17;            // Integer (whole number)
     float myFloatNum = 5.99;   // Floating point number
     char myLetter = 'D';       // Character
 
