@@ -17,6 +17,7 @@ int main()
 
     // Assign a value to the variable
     myAge = 28;
+    printf("Today is my birthday I'm 17");
 
     /*
         In many other programming languages (like Python, Java, and C++),
@@ -27,8 +28,10 @@ int main()
         printf(myNum);  // Nothing happens
     */
 
-    int myNum = 15;
+    int myNum = 17;
     printf("%d", myNum);  // Outputs 15
+    printf("My favorite number is: %d", myNum);
+
 
     return 0;
 }
