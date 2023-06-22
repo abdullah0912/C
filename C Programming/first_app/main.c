@@ -15,8 +15,20 @@ int main()
     // VARÝABLES
 
     // Declare a variable
-    int myNum;
+    int myAge;
 
     // Assign a value to the variable
-    myNum = 15;
+    myAge = 28;
+
+    /*
+        In many other programming languages (like Python, Java, and C++),
+        you would normally use a print function to display the value of a variable.
+        However, this is not possible in C:
+
+        int myNum = 15;
+        printf(myNum);  // Nothing happens
+    */
+
+    int myNum = 15;
+    printf("%d", myNum);  // Outputs 15
 }
