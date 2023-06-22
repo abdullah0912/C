@@ -9,8 +9,6 @@ int main()
 
     // And his is single-line
     printf("Hello world!\n");
-    return 0;
-
 
     // VARÝABLES
 
@@ -31,4 +29,5 @@ int main()
 
     int myNum = 15;
     printf("%d", myNum);  // Outputs 15
+    return 0;
 }
