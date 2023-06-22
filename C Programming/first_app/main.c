@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main()
-{
+int main(){
     /*
         This is a multi-line comment
     */
@@ -42,7 +41,7 @@ int main()
     char myLetter = 'D';       // Character
 
     // Print variables
-    printf("%d\n", myNum);
+    printf("%d\n", Age);
     printf("%f\n", myFloatNum);
     printf("%c\n", myLetter);
 
@@ -60,21 +59,4 @@ int main()
 
     return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
