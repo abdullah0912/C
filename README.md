@@ -58,7 +58,6 @@ C has been standardized by ANSI since 1989 (ANSI C) and by the International Org
 
 ❗❗ ***NOTE: When i was coding the first app i used int as numerical variable, But in the second app i used float***
 
-<br>
 
 #### Thanks for reading this repo and you can support me as:
 
