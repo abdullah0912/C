@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1687579597 source:c:\users\abdul\onedrive\belgeler\c programming\table of fahrenheit temperatures and their celcius equivalents app v4\main.c
+	<stdio.h>
+	<stdlib.h>
+
