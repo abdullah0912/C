@@ -57,7 +57,11 @@ C has been standardized by ANSI since 1989 (ANSI C) and by the International Org
 
 
 ❗❗ ***NOTE: When i was coding the first app i used int as numerical variable, But in the second app i used float***
+3- Rock, Paper & Scissor game:
 
+- This is a simple view of the game
+
+![Screenshot 2023-06-25 143353](https://github.com/abdullah0912/C/assets/88820048/b7d0a630-c1e9-4020-bdf6-761756b7fee9)
 
 #### Thanks for reading this repo and you can support me as:
 
