@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1687806512 source:c:\users\abdul\onedrive\belgeler\c programming\shopping list app\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
