@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1687681391 source:c:\users\abdul\onedrive\belgeler\c programming\rock paper scissor game\main.c
-	<stdio.h>
-	<stdlib.h>
-	<windows.h>
-	<time.h>
-
